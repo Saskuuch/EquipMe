@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EquipMe</string>
+    <string name="username">Username:</string>
+    <string name="usernamehint">Enter Username</string>
+
+    <string name="password">Password:</string>
+    <string name="passwordhint">Enter Password</string>
+
+    <string name="enter">Enter</string>
+
+    <string name="loginfo">Sign-in with your EquipMe login info</string>
+
+    <array name="oilTypes">
+        <item>_0W_20</item>
+        <item>_OW_30</item>
+        <item>_5W_30</item>
+        <item>_5W_20</item>
+        <item>_10W_30</item>
+        <item>_10W_40</item>
+        <item>_10W_60</item>
+        <item>_15W_40</item>
+        <item>_20W_30</item>
+        <item>FuelMixed</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
